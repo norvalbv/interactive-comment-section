@@ -12,6 +12,6 @@ Screenshots:
 
 Roadmap:
 
-Finish project as required: (goal | 02/01/2022)
+Finish project as required: (goal | 14/01/2022)
 
-Implement testing using Jest and Enzyme (goal | 05/01/2022)
+Implement testing using Jest and Enzyme (goal | 20/01/2022)
